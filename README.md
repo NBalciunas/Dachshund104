@@ -26,3 +26,5 @@ More coming soon... (probably)
 # Honorable mention to this dachshund
 
 ![ciuckis](https://github.com/TheMobas0/Dachshund104/assets/87865572/4acd7f98-1d93-4cf4-9550-566c3cfd85ca)
+
+Mindšunis (engl. Mindog)
