@@ -21,7 +21,6 @@ RGB is optional and if you are planning on not using it I would recommend to edi
 
 ![render](https://github.com/TheMobas0/Dachshund104/assets/87865572/c3ff0e07-9835-40d6-aa6c-effeca905e24)
 
-More coming soon... (probably)
 
 # Honorable mention to this dachshund
 
