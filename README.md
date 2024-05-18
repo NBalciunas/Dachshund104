@@ -1,6 +1,7 @@
 # Dachshund104
 
 ![logo](https://github.com/TheMobas0/Dachshund104/assets/87865572/2002639a-7da3-4227-9ca3-5aff0e5c19bd)
+P.S. I changed my github handle, the link in the picture is no longer valid.
 
 ## Features:
 - Powered by Teensy++ 2.0
